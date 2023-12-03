@@ -1,0 +1,52 @@
+body{
+	padding: 0px;
+	margin:0px;
+}
+#navbar{
+	background-color: #efccc8f5;
+	height:80px;
+	border-bottom: 1px solid grey;
+	
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+  }
+  
+  li {
+	float: right;
+  }
+  
+  li a {
+	display: block;
+	color: rgb(9, 2, 2);
+	text-align: center;
+	padding: 14px 20px;
+	text-decoration: none;
+	font-weight: 500;
+  }
+  
+
+#home{
+	text-align: center;
+	background-color: #efccc8f5;
+	border:1px solid #efccc8f5;
+  }
+
+#features{
+	text-align: center;
+}
+#andmore{
+	padding-left: 100px;
+}
+#faq{
+	padding-left: 100px;
+}
+#pricing{
+	text-align: center;
+}
+#testimonials{
+	padding-left: 100px;
+}
